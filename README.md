@@ -9,6 +9,8 @@ Binary Search Tree Bitirme Projesi - Patika.dev
 Dizinin en başındaki sayıyı root olarak seçtik. Root'dan büyük sayılar sağa, root'dan küçük sayılar sola yazılır.
 
 Root: 7
+
+
                7
              /
             5
